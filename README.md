@@ -14,8 +14,7 @@ This project implements a reinforcement learning approach for power grid control
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/Adi-Semag/power_grid_ieee14_actorcritic>
 ```
 
 2. Create a virtual environment (optional but recommended):
